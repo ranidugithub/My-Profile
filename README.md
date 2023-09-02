@@ -97,7 +97,7 @@
   		<img alt="Ranidu's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 	</a>
 	<a href="https://www.linkedin.com/in/ranidu-iddamalgoda/" rel="nofollow">
-  		<img alt="Ranidu's LinkedIn" width="22px" src="https://icons8.com/icon/13930/linkedin" style="max-width: 100%;">
+  		<img alt="Ranidu's LinkedIn" width="22px" src="" style="max-width: 100%;">
 	</a>
 </div>
 </p>
