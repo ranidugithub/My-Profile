@@ -96,8 +96,10 @@
 	<a href="" rel="nofollow">
   		<img alt="Ranidu's Twitter" width="22px" src="https://github.com/ranidugithub/My-Profile/blob/main/assets/icons8-linkedin-48.png" style="max-width: 100%;">
 	</a>
-	<a href="https://www.linkedin.com/in/ranidu-iddamalgoda/" rel="nofollow" >
-  		<img alt="Ranidu's LinkedIn" width="22px" src="https://icons8.com/icon/13930/linkedin">LinkedIn</a> icon by <a target=" style="max-width: 100%;">
-	</a>
+	<a href="https://www.linkedin.com/in/ranidu-iddamalgoda/" rel="nofollow" style="display: flex; align-items: center;">
+  <img alt="Ranidu's LinkedIn" width="22px" src="https://raw.githubusercontent.com/ranidugithub/My-Profile/main/assets/icons8-linkedin.svg" style="max-width: 100%; margin-bottom: 15px;">
+  Ranidu's LinkedIn
+</a>
+</a>
 </div>
 </p>
